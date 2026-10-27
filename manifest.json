@@ -1,8 +1,8 @@
 {
   "id": "x-app",
   "name": "X",
-  "version": "1.0.0",
-  "description": "X 风格的社交 App：发帖、个人主页、让角色发帖（后续版本会加入生图、语音、记忆互通）",
+  "version": "2.0.0",
+  "description": "X 风格的社交 App：Home/Super/Discover/Messages/Me、角色主页、角色自动发帖、评论回复、世界书关联、点赞评论会被角色在聊天里提起",
   "author": "Nana",
   "entry": "https://raw.githubusercontent.com/fjcxitiyfhj/.-/main/x-app.js",
   "hash": "",
